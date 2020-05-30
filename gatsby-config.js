@@ -2,13 +2,14 @@ module.exports = {
   siteMetadata: {
     title: `Super Duper Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`
+      name: `Andre Kovac`,
+      summary: `der gerne Programmieren beibringt.`
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`
+      twitter: `andrekovac`,
+      github: `andrekovac`
     }
   },
   plugins: [
